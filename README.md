@@ -16,6 +16,8 @@ _🦌 网页小游戏 🥛_
 
 浏览量超10,000,000+
 
+本游戏由【少佐】换皮制作，原作者网站如下：
+
 线上版本:https://xingye.me/game/eatkano/index.php
 
 Github Page:https://arcxingye.github.io/EatKano/index.html
